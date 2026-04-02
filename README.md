@@ -40,8 +40,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Spring Boot" width="40px" src="https://img.icons8.com/color/48/spring-logo.png"/>
   <img align="left" alt="ReactJS" width="40px" src="https://img.icons8.com/color/48/react-native.png"/>
 
-  <img align="left" alt="JUnit" width="40px" src="https://cdn.simpleicons.org/junit5/25A162"/>
-
   <img align="left" alt="Azure" width="40px" src="https://img.icons8.com/color/48/azure-1.png"/>
   <img align="left" alt="Docker" width="40px" src="https://img.icons8.com/color/48/docker.png"/>
   <img align="left" alt="Kubernetes" width="40px" src="https://img.icons8.com/color/48/kubernetes.png"/>

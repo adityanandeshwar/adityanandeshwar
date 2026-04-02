@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Aditya Nandeshwar
 
 <!--
 **adityanandeshwar/adityanandeshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,84 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Spring+Boot+%7C+React+Specialist;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Microservices" />
+</p> -->
+
+## 🚀 About Me
+💻 Full Stack Developer focused on building **scalable, high-performance applications**  
+☁️ Passionate about **Cloud, Microservices & DevOps**  
+🌱 Currently learning **Kubernetes & Distributed Systems**  
+🎯 Goal: Deliver **production-ready, efficient solutions**  
+⚡ Love simplifying complex problems with clean code  
+
+---
+
+## 🛠️ Skills
+<div style="padding-bottom: 50px;">
+  <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/python.png"/>
+  <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+  <img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/javascript.png"/>
+  <img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/48/html-5.png"/>
+  <img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/48/css3.png"/>
+
+  <img align="left" alt="Spring Boot" width="40px" src="https://img.icons8.com/color/48/spring-logo.png"/>
+  <img align="left" alt="ReactJS" width="40px" src="https://img.icons8.com/color/48/react-native.png"/>
+
+  <img align="left" alt="JUnit" width="40px" src="https://cdn.simpleicons.org/junit5/25A162"/>
+
+  <img align="left" alt="Azure" width="40px" src="https://img.icons8.com/color/48/azure-1.png"/>
+  <img align="left" alt="Docker" width="40px" src="https://img.icons8.com/color/48/docker.png"/>
+  <img align="left" alt="Kubernetes" width="40px" src="https://img.icons8.com/color/48/kubernetes.png"/>
+  <img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/git.png"/>
+
+  <img align="left" alt="SQL Server" width="40px" src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
+  <img align="left" alt="PostgreSQL" width="40px" src="https://img.icons8.com/color/48/postgreesql.png"/>
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+---
+<!--
+## 📊 GitHub Stats (Stable Version)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityanandeshwar&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityanandeshwar&show_icons=true&theme=tokyonight" />
+</p>
+-->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adityanandeshwar&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/adityanandeshwar  
+- Email: adinandeshwar@gmail.com
+<!--
+- Portfolio: https://your-portfolio.com  -->
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityanandeshwar&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+## ⭐ Support
+
+If you like my work, give a ⭐ to my repositories!

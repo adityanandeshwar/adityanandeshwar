@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 ## 👀 Profile Views
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=adityanandeshwar&color=blue&style=for-the-badge" />
 </p>
 

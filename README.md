@@ -1,4 +1,6 @@
-## Hi 👋, I'm Aditya Nandeshwar
+## Hi there 👋, Welcome to my Github page!
+
+I'm [Aditya](https://github.com/adityanandeshwar), a Software Engineer with 2.8 years of experience in full-stack development, specializing in Java, ReactJS, and Cloud technologies.
 
 <!--
 **adityanandeshwar/adityanandeshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,11 +22,13 @@ Here are some ideas to get you started:
 </p> -->
 
 ## 🚀 About Me
-💻 Full Stack Developer focused on building **scalable, high-performance applications**  
-☁️ Passionate about **Cloud, Microservices & DevOps**  
-🌱 Currently learning **Kubernetes & Distributed Systems**  
-🎯 Goal: Deliver **production-ready, efficient solutions**  
-⚡ Love simplifying complex problems with clean code  
+- 🔭 I’m currently working on **full stack applications using Spring Boot & ReactJS**
+- 🌱 I’m currently learning **Kubernetes and Advanced system design**
+- 👯 I’m looking to collaborate on **microservices-based projects and cloud-native applications**
+- 🤔 I’m looking for help with **scaling distributed systems and real-world architecture challenges**
+- 💬 Ask me about **Java, Spring Boot, JavaScript, ReactJS, and backend system design**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/adityanandeshwar)
+- ⚡ Fun fact: **I enjoy turning complex problems into simple and efficient solutions**  
 
 ---
 
@@ -55,15 +59,6 @@ Here are some ideas to get you started:
 <br />
 
 ---
-<!--
-## 📊 GitHub Stats (Stable Version)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityanandeshwar&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityanandeshwar&show_icons=true&theme=tokyonight" />
-</p>
--->
 
 ## 🔥 Contribution Streak
 

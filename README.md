@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **full stack applications using Spring Boot & ReactJS**
-- 🌱 I’m currently learning **Advanced system design**
+- 🌱 I’m currently learning **advanced system design**
 - 👯 I’m looking to collaborate on **microservices-based projects and cloud-native applications**
-- 🤔 I’m looking for help with **scaling distributed systems and real-world architecture challenges**
 - 💬 Ask me about **Java, Spring Boot, JavaScript, ReactJS, and backend system design**
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/adityanandeshwar)
 - ⚡ Fun fact: **I enjoy turning complex problems into simple and efficient solutions**  

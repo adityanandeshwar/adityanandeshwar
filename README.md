@@ -30,6 +30,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **I enjoy turning complex problems into simple and efficient solutions**  
 
 ---
+<!--
+## 🛠️ Skills
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
+![Mockito](https://img.shields.io/badge/Mockito-8A4182?style=for-the-badge)
+
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI--CD-000000?style=for-the-badge)
+
+### 🛢️ Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧠 Concepts
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-FF4081?style=for-the-badge)
+-->
 
 ## 🛠️ Skills
 <div style="padding-bottom: 50px;">

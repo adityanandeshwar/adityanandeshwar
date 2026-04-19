@@ -1,6 +1,6 @@
 ## Hi there 👋, Welcome to my Github page!
 
-I'm [Aditya](https://github.com/adityanandeshwar), a Software Engineer with 2.8 years of experience in full-stack development, specializing in Java, ReactJS, and Cloud technologies.
+I'm [Aditya](https://github.com/adityanandeshwar), a Software Engineer with nearly 3 years of experience in full-stack development, specializing in Java, ReactJS, and Cloud technologies.
 
 <!--
 **adityanandeshwar/adityanandeshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
